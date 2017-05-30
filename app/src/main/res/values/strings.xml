@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Đọc truyện</string>
+    <string name="category_name">Category name</string>
+    <string name="story_title">Story title</string>
+    <string name="story_content">Story content</string>
+    <string name="icon">Icon</string>
+</resources>
